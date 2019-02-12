@@ -8,6 +8,4 @@ To install all the libraries needed by the project. After that you can start the
 
 ***npm start***
 
-The back end will run at localhost:3001.
-
 **Note:** This project has been generated using the version 11.7 of Node.js and 6.6.0 of NPM. If there are any errors related to Node, you might need to update your version to the latest one.
